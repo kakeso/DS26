@@ -1,0 +1,20 @@
+Tämä on testitekstiä DS-kursille. Kokeilemme GitHubia. 
+
+Tutkimusaineistot
+Tutkimusaineisto tai tutkimusdata on tutkimuksen aikana syntynyttä dataa, jolla perustellaan ja tarvittaessa toistetaan tutkimuksen tulokset. Tutkimusdataa on hyvin erilaista, niin fyysistä kuin elektronista.
+
+Erilaisia tutkimusaineistoja ovat esim.:
+
+erilaiset mittaustulokset
+kyselyistä ja haastatteluista syntyvä data (kyselylomakkeet, vastaukset, taulukot, muu numeraalinen data jne.)
+tekstiaineistot (litteroidut tekstitiedostot, korpuslingvistiikka, diskurssianalyysi, tyylintutkimus, jne.)
+puhetallenteet (haastattelututkimukset, fonetiikka, diskurssianalyysi, keskusteluntutkimus, jne)
+muut äänitallenteet (esim. musiikki)
+videotallenteet (esim. haastattelututkimus, mediatutkimus, viittomakieli)
+havainnoinnilla kerätty aineisto (havaintomatriisit, havainnointipäiväkirjat, jne)
+tutkittavien pitämät tutkimuspäiväkirjat
+tutkimuspäiväkirjat
+tutkijan muistiinpanot
+itse tehdyt ohjelmistot ja lähdekoodit
+tutkijan itse keräämä fyysinen tai elektroninen lähdemateriaali (esim. biologiset näytteet, esineet, tekstinäytteet, keruuaineistot)
+tutkijan toisen aineiston pohjalta luoma uusi aineisto
